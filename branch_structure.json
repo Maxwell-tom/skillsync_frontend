@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/issue-1240-implement-trending-discussion-badge",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/issue-1240-implement-trending-discussion-badge": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/issue-1240-implement-trending-discussion-badge",
+    "origin"
+  ]
+}
